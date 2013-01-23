@@ -1,0 +1,2 @@
+extensionconflict-magento-octagono-tecnologia
+=============================================
